@@ -5,12 +5,15 @@ import dotenv from "dotenv";
 import bodyParser from "body-parser";
 import { readFile } from "fs/promises";
 import { OpenAI } from "openai";
+import cors from "cors";
 
 dotenv.config();
 
 const app = express();
 const port = process.env.PORT || 3000;
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+
+app.use(cors());
 
 app.use(bodyParser.json());
 
