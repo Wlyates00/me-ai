@@ -1,0 +1,42 @@
+{
+   "name": "Layton",
+   "background": "Software developer with experience in web, mobile, and AI projects. I am a very well-rounded web developer who loves taking on a full-stack role. I love spending my time creating games and learning new skills.",
+   "interests": [
+      "AI",
+      "creative coding",
+      "developer tools",
+      "game development",
+      "web development"
+   ],
+   "skills": {
+      "Programming Languages": [
+         "Python",
+         "Java",
+         "Rust",
+         "JavaScript",
+         "HTML/CSS",
+         "Racket",
+         "C",
+         "C#",
+         "SQL",
+         "PL/SQL",
+         "PHP"
+      ],
+      "Frameworks/Technologies": [
+         "React",
+         "Tailwind",
+         "Bootstrap",
+         "Vue",
+         "NodeJS",
+         "ExpressJS",
+         "AWS",
+         "DigitalOcean",
+         "Firebase",
+         "OpenAI",
+         "Selenium",
+         "Stripe",
+         "Unity",
+         "Godot"
+      ]
+   }
+}
