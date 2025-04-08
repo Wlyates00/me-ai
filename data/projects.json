@@ -2,36 +2,48 @@
    {
       "title": "Seasonal Merch",
       "description": "Developed & maintain the ecommerce site using React, Tailwind, Firebase, NodeJS, ExpressJS. Includes an admin page and full functionality for an in-depth ecommerce experience.",
-      "technologies": ["React", "Tailwind", "Firebase", "NodeJS", "ExpressJS"],
+      "technologies": [
+         "React",
+         "Tailwind",
+         "Firebase",
+         "NodeJS",
+         "ExpressJS",
+         "Stripe"
+      ],
       "status": "Active",
-      "link": "https://link_to_your_site.com"
+      "link": "https://seasonalmerch.store"
    },
    {
       "title": "AI Email Scribe",
       "description": "Created frontend, API, and Google Chrome extension to help write emails quicker and more accurately. (API is not currently active)",
-      "technologies": ["React", "API", "Google Chrome Extension"],
+      "technologies": [
+         "React",
+         "Custom API",
+         "Google Chrome Extension",
+         "Bootstrap"
+      ],
       "status": "Inactive",
-      "link": "https://github.com/yourgithublink"
+      "link": "https://github.com/Wlyates00/ai-email-scribe-Frontend"
    },
    {
       "title": "Faces+",
       "description": "Built using Unity Game Engine, this simple yet infuriating game was enjoyed internationally by over 30,000 players! (Game is not currently on iOS App Stores)",
-      "technologies": ["Unity"],
+      "technologies": ["Unity", "xCode"],
       "status": "Inactive",
-      "link": "https://github.com/yourgithublink"
+      "link": "https://github.com/Wlyates00/Faces"
    },
    {
       "title": "Style-able Text Editor",
       "description": "Built using Java & Java Swing for the purpose of taking notes in class. Supports many actions like inserting symbols, saving as many file types, etc.",
       "technologies": ["Java", "Java Swing"],
       "status": "Active",
-      "link": "https://github.com/yourgithublink"
+      "link": "https://github.com/Wlyates00/stylized-text-editor"
    },
    {
       "title": "Starship Versus",
       "description": "Built for a client using Unity Game Engine and published to the market.",
-      "technologies": ["Unity"],
+      "technologies": ["Unity", "xCode"],
       "status": "Active",
-      "link": "https://link_to_your_site.com"
+      "link": "https://apps.apple.com/us/app/starship-versus/id6467820162"
    }
 ]
