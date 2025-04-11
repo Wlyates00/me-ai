@@ -1,12 +1,56 @@
 {
    "name": "Layton",
    "background": "Software developer with experience in web, mobile, and AI projects. I am a very well-rounded web developer who loves taking on a full-stack role. I love spending my time creating games and learning new skills.",
+   "education": [
+      {
+         "degree": "B.S. in Computer Science",
+         "institution": "Radford University",
+         "expectedGraduation": "May 2025",
+         "coursework": [
+            "Data Structures and Algorithms",
+            "Operating Systems",
+            "Software Engineering",
+            "Web Development",
+            "Mobile App Development",
+            "Artificial Intelligence",
+            "Database Systems"
+         ],
+         "honors": ["Dean’s List (multiple semesters)"],
+         "activities": [
+            "Game Development Club",
+            "Hackathons",
+            "Open Source Contributions"
+         ]
+      }
+   ],
+   "experience": [
+      {
+         "title": "Jersey Design Associate",
+         "company": "Hyperx Racewear",
+         "duration": "Dec. 2022 – Present",
+         "description": "Built an automated order processor application to cut out about an hour of tedious work every day. Use multiple design softwares and manage a large format printer.",
+         "techUsed": [
+            "Python",
+            "Selenium",
+            "LXI Master",
+            "CorelDraw",
+            "VersaWorks"
+         ]
+      },
+      {
+         "title": "Freelance Game Developer",
+         "company": "Individual",
+         "duration": "Jul. 2023 – Apr. 2024",
+         "description": "Built a two player mobile game for a client within a timely manner. Regularly held meetings to help with artwork, music and game publication.",
+         "techUsed": ["Unity", "xCode"]
+      }
+   ],
    "interests": [
-      "AI",
       "creative coding",
       "developer tools",
       "game development",
-      "web development"
+      "web development",
+      "AI"
    ],
    "skills": {
       "Programming Languages": [

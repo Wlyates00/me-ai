@@ -48,7 +48,7 @@ const buildPrompt = (knowledge, userMessage) => {
  ${JSON.stringify(knowledge.projects, null, 2)}
 
  IMPORTANT:
- - ONLY use the information above to answer questions about Layton.
+ - ONLY use the information above to answer questions.
  - If you are unsure or the answer is not found in the background information, say something like:
   "I’ll have to get back to you on that one." or 
   "I do not think the real Layton has told me the answer to this one yet."
