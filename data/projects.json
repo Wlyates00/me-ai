@@ -27,7 +27,7 @@
    },
    {
       "title": "Faces+",
-      "description": "Built using Unity Game Engine, this simple yet infuriating game was enjoyed internationally by over 30,000 players! (Game is not currently on iOS App Stores)",
+      "description": "Built using Unity Game Engine, this simple yet infuriating game was enjoyed internationally by over 30,000 players! (Game is not currently on iOS App Stores). It was rated in the Top 100 Free games of the Apple App Store.",
       "technologies": ["Unity", "xCode"],
       "status": "Inactive",
       "link": "https://github.com/Wlyates00/Faces"
@@ -45,5 +45,11 @@
       "technologies": ["Unity", "xCode"],
       "status": "Active",
       "link": "https://apps.apple.com/us/app/starship-versus/id6467820162"
+   },
+   {
+      "title": "HyperX Automated Order Processor",
+      "description": "Developed & integrated a web scraper to fully automate manual data entry. This had to be a robust app that can withstand many inconsistancies within a third-party admin page.",
+      "technologies": ["Python", "Selenium"],
+      "status": "Active"
    }
 ]
